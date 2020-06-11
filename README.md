@@ -1,2 +1,2 @@
-# Coursera_Capstone
-This is final project of my Data Science Specialization.
+# Coursera_Data_Science
+All of my Data Science Specialization projects are listed here.
