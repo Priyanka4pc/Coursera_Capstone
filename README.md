@@ -1,2 +1,2 @@
 # Coursera_Data_Science
-All of my Data Science Specialization projects are listed here.
+All of my Coursera Data Science projects are listed here.
